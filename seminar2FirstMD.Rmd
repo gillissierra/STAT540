@@ -1,8 +1,8 @@
 ---
 title: "Seminar 2 - First Markdown"
 author: "Sierra G"
-date: "07/01/2020"
-output: html_document
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
