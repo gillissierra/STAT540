@@ -9,4 +9,3 @@ output:
 ---
 
 This repo holds our materials for our Group Project. Contributing members are Sierra Gillis, Iciar Fernandez-Boyano, Naila Adam, Nikita Telkar.
-
