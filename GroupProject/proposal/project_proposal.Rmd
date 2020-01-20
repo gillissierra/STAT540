@@ -1,0 +1,17 @@
+---
+title: "Proposal"
+author: "Sierra G"
+date: "20/01/2020"
+output: html_document
+---
+
+| Name | Department/Program | Expertise/Interests |GitHub ID | 
+| ------------- | ------------- | ------------- | ------------- |
+| example: Victor Yuan | Genome Science and Technology |  Epigenetics, Bioinformatics |  @wvictor14|
+| Sina jafarzadeh | Bioinformatics  |  Molecular Evolution | @jafarzadeh91 |
+|  |   |  |
+|  |   |  |
+
+Team name: 
+
+One paragraph on the basic idea of the project:
